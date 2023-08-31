@@ -1,6 +1,6 @@
 # AH-Python-weather-interface
 
-This was submitted as coursework for my Advanced Higher Computing Science class in 2021. It is a Python GUI application made using Tkinter that fetches weather information.
+This was submitted as coursework for my Advanced Higher Computing Science class in 2020. It is a Python GUI application made using Tkinter that fetches weather information.
 
 The use of the app is fairly simple. By running `python3 main.py`, the app will open. There are two features available:
 
